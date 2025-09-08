@@ -22,7 +22,7 @@ header ul {
 header ul li {
     text-decoration: none;
     list-style: none;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 header ul li a {
@@ -42,6 +42,7 @@ section {
 
 .hero {
     padding: 4rem;
+    background-color: white;
 }
 
 .hero h1 {
@@ -54,7 +55,7 @@ section {
 
 .about {
     padding: 4rem;
-    background-color: black;
+    background-color: gray;
     color: white;
     height: 100vh;
 }
@@ -68,8 +69,8 @@ section {
 } */
 
 .mycertificate {
-    background-color: black;
-    color: white;
+    background-color: gray;
+    color: black;
     padding: 3rem;
 }
 
@@ -82,8 +83,8 @@ section {
 }
 
 .certificate {
-    background-color: black;
-    color: white;
+    background-color: purple;
+    color: black;
     padding: 20px;
     width: 25%;
     height: 300px;
@@ -102,12 +103,16 @@ section {
 } */
 
 .service {
-    background-color: black;
+    background-color: purple;
     color: white;
     width: 25%;
     height: 300px;
     gap: 20px;
     padding: 2rem;
+}
+
+.myservice{
+    background-color: white;
 }
 
 .service-container {
