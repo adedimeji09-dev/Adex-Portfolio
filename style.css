@@ -164,6 +164,9 @@ footer {
         font-size: 20px;
     }
 
+    header ul li {
+        font-size: 10px;
+    }
     header a {
         font-size: 10px;
     }
