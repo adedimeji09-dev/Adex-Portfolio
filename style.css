@@ -199,6 +199,7 @@ footer {
 
     .myservice {
         padding: 0px;
+        height: 70vh;
     }
 
     .service-container {
@@ -208,7 +209,7 @@ footer {
     }
 
     .mycertificate {
-        height: fit-content;
+        height: 70vh;
         padding: 0px;
     }
 
@@ -216,8 +217,8 @@ footer {
         width: 100%;
         padding: 0px;
         flex-direction: column;
-        width: 100%;
-        padding: 0px 10px;
+        padding: 25px 10px;
+        height: fit-content;
     }
 
     .certificate-container {
