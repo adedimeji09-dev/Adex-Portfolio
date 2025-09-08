@@ -174,10 +174,13 @@ footer {
     .hero p{
         font-size: 20px;
     }
+    .hero{
+        height: 50%;
+    }
 
     .about {
         height: fit-content;
-        padding: 1rem;
+        padding: 4rem 1rem;
     }
 
     .about p {
