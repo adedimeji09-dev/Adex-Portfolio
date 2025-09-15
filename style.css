@@ -192,6 +192,17 @@ footer {
     }
     .hero{
         height: 70vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text{
+        width: auto;
+    }
+
+    .image{
+        width: 100%;
+        height: auto;
     }
 
     .about {
